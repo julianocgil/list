@@ -59,35 +59,3 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2017
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2285
 #EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Abertos",RecordTV RS
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2286
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais HBO ",HBO HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2144
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais HBO ",HBO
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2139
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Canais HBO ",HBO 2 HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2141
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://printv.esy.es/server/HBO%202.png" group-title="Canais HBO ",HBO 2
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2140
-#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="Canais HBO ",HBO Plus HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2146
-#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="Canais HBO ",HBO Plus
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2145
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://printv.esy.es/server/HBO%20Family%20HD.png" group-title="Canais HBO ",HBO Family HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2143
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://printv.esy.es/server/HBO%20Family.png" group-title="Canais HBO ",HBO Family
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2142
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://printv.esy.es/server/HBO%20Signature%20HD.png" group-title="Canais HBO ",HBO Signature HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2148
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="Canais HBO ",HBO Signature
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2147
-#EXTINF:-1 tvg-id="Max" tvg-name="MAX HD" tvg-logo="http://printv.esy.es/server/Max%20HD.png" group-title="Canais HBO ",MAX HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2158
-#EXTINF:-1 tvg-id="Max" tvg-name="MAX" tvg-logo="http://printv.esy.es/server/Max.png" group-title="Canais HBO ",MAX
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2157
-#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Canais HBO ",Max UP HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2162
-#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Canais HBO ",Max UP
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2161
-#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Canais HBO ",Max Prime HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2160
-#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Canais HBO ",Max Prime
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2159
