@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FHD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais Abertos",SBT FHD
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1900
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais Abertos",SBT HD
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2212
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2211
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Alternativo HD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais Abertos",SBT Alternativo HD
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1324
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Alternativo" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT Alternativo
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1218
+#EXTINF:-1 tvg-id="SBT SP Interior" tvg-name="SBT SP Interior" tvg-logo="http://printv.esy.es/server/SBT%20Interior.png" group-title="Canais Abertos",SBT SP Interior
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2213
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SP FHD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band SP FHD
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1878
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SP HD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band SP HD
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2056
