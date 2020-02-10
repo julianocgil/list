@@ -43,21 +43,21 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2125
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2291
 #EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://printv.esy.es/server/Terra%20Viva.png" group-title="Canais Abertos",Terra Viva
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2238
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Globo Record",Globo RBS TV POA HD
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV POA HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1939
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Globo Record",Globo RBS TV POA
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV POA
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1938
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Globo Record",Globo RBS TV Pelotas HD
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV Pelotas HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2022
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Globo Record",Globo RBS TV Pelotas
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV Pelotas
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2023
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Globo Record",Globo RBS TV Caxias do Sul HD
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV Caxias do Sul HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2016
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Globo Record",Globo RBS TV Caxias do Sul
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV Caxias do Sul
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2017
-#EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS HD" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Globo Record",RecordTV RS HD
+#EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS HD" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Abertos",RecordTV RS HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2285
-#EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Globo Record",RecordTV RS
+#EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Abertos",RecordTV RS
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2286
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2130
