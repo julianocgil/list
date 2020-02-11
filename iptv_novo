@@ -3,8 +3,6 @@
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2212
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2211
-#EXTINF:-1 tvg-id="SBT SP Interior" tvg-name="SBT SP Interior" tvg-logo="http://printv.esy.es/server/SBT%20Interior.png" group-title="Canais Abertos",SBT SP Interior
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2213
 #EXTINF:-1 tvg-id="Band" tvg-name="Band SP HD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band SP HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2056
 #EXTINF:-1 tvg-id="Band" tvg-name="Band SP" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band SP
@@ -15,61 +13,29 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/18590
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2209
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV!" tvg-logo="http://printv.esy.es/server/Rede%20TV%21.png" group-title="Canais Abertos",Rede TV!
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2208
-#EXTINF:-1 tvg-id="" tvg-name="TV Diario Fortaleza HD" tvg-logo="http://printv.esy.es/server/TV%20DiÃƒÂ¡rio.png" group-title="Canais Abertos",TV Diario Fortaleza HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2287
-#EXTINF:-1 tvg-id="" tvg-name="TV Diario Fortaleza" tvg-logo="http://printv.esy.es/server/TV%20DiÃƒÂ¡rio.png" group-title="Canais Abertos",TV Diario Fortaleza
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2288
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura HD" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",TV Cultura HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2272
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",TV Cultura
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2271
-#EXTINF:-1 tvg-id="" tvg-name="TV Vale Verde Cariri CE " tvg-logo="https://lh3.googleusercontent.com/proxy/9zx7R-Jwu8cjC9aoXkIZLkXzN_lsD1d3CGsSirijw3QIZ0VrD3MOQxDt_dCfuOMnOY5hZwwCBELEjerjaqd_X5pYk4dr4g_EPLryXuRaxZJZkxFYjhWHroy0F9mINQl5tKdYiw=w130-h117" group-title="Canais Abertos",TV Vale Verde Cariri CE 
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/19846
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="http://printv.esy.es/server/TV%20Brasill.png" group-title="Canais Abertos",TV Brasil
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2249
-#EXTINF:-1 tvg-id="" tvg-name="TV Senado" tvg-logo="http://printv.esy.es/server/TV%20Senado.png" group-title="Canais Abertos",TV Senado
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2246
-#EXTINF:-1 tvg-id="" tvg-name="TV Justica " tvg-logo="http://printv.esy.es/server/TV%20Justi%C3%A7a.png" group-title="Canais Abertos",TV Justica 
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2247
-#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://printv.esy.es/server/TV%20Escola.png" group-title="Canais Abertos",TV Escola
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2251
-#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta SP HD" tvg-logo="http://printv.esy.es/server/Gazeta.png" group-title="Canais Abertos",TV Gazeta SP HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2252
-#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2126
-#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2125
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi" tvg-logo="http://printv.esy.es/server/Canal%20do%20Boi.png" group-title="Canais Abertos",Canal do Boi
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2291
-#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://printv.esy.es/server/Terra%20Viva.png" group-title="Canais Abertos",Terra Viva
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2238
 #EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV POA HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1939
 #EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV POA
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1938
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV Pelotas HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2022
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Pelotas" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV Pelotas
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2023
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV Caxias do Sul HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2016
-#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV Caxias do Sul
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2017
 #EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS HD" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Abertos",RecordTV RS HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2285
 #EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Abertos",RecordTV RS
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2286
-#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News HD
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Canais Abertos",Globo News HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2130
-#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="Noticias",Globo News
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="Canais Abertos",Globo News
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2129
-#EXTINF:-1 tvg-id="Band News" tvg-name="Band News HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Noticias",Band News HD
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Canais Abertos",Band News HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2058
-#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="Noticias",Band News
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="Canais Abertos",Band News
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2057
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News HD
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Canais Abertos",Record News HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2205
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Canais Abertos",Record News
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2204
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",Sportv HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2038
@@ -179,77 +145,77 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2196
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1162
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://printv.esy.es/server/Premiere%209.png" group-title="Premiere",Premiere 9
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/7947
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Globosat Filmes",Telecine Premium HD
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="HBO Globosat",Telecine Premium HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2235
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Globosat Filmes",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="HBO Globosat",Telecine Premium
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2234
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Globosat Filmes",Telecine Action HD
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="HBO Globosat",Telecine Action HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2227
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Globosat Filmes",Telecine Action
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="HBO Globosat",Telecine Action
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2226
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Globosat Filmes",Telecine Touch HD
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="HBO Globosat",Telecine Touch HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2237
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Globosat Filmes",Telecine Touch
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="HBO Globosat",Telecine Touch
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2236
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Globosat Filmes",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="HBO Globosat",Telecine Pipoca HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2233
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Globosat Filmes",Telecine Pipoca
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="HBO Globosat",Telecine Pipoca
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2232
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Globosat Filmes",Telecine Fun HD
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="HBO Globosat",Telecine Fun HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2231
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Globosat Filmes",Telecine Fun
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="HBO Globosat",Telecine Fun
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2230
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="Globosat Filmes",Telecine Cult HD
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="HBO Globosat",Telecine Cult HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2229
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="Globosat Filmes",Telecine Cult
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="HBO Globosat",Telecine Cult
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2228
-#EXTINF:-1 tvg-id="MegaPix" tvg-name="Megapix HD" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="Globosat Filmes",Megapix HD
+#EXTINF:-1 tvg-id="MegaPix" tvg-name="Megapix HD" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="HBO Globosat",Megapix HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2164
-#EXTINF:-1 tvg-id="MegaPix" tvg-name="Megapix" tvg-logo="http://printv.esy.es/server/Megapix.png" group-title="Globosat Filmes",Megapix
+#EXTINF:-1 tvg-id="MegaPix" tvg-name="Megapix" tvg-logo="http://printv.esy.es/server/Megapix.png" group-title="HBO Globosat",Megapix
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2163
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://printv.esy.es/server/Studio%20Universal%20HD.png" group-title="Globosat Filmes",Studio Universal HD
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://printv.esy.es/server/Studio%20Universal%20HD.png" group-title="HBO Globosat",Studio Universal HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2222
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://printv.esy.es/server/Studio%20Universal.png" group-title="Globosat Filmes",Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://printv.esy.es/server/Studio%20Universal.png" group-title="HBO Globosat",Studio Universal
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2221
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="http://printv.esy.es/server/Syfy%20HD.png" group-title="Globosat Filmes",Syfy HD
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="http://printv.esy.es/server/Syfy%20HD.png" group-title="HBO Globosat",Syfy HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2215
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://printv.esy.es/server/Syfy.png" group-title="Globosat Filmes",Syfy
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://printv.esy.es/server/Syfy.png" group-title="HBO Globosat",Syfy
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2214
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Globosat Filmes",Canal Brasil HD
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="HBO Globosat",Canal Brasil HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2067
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Globosat Filmes",Canal Brasil
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="HBO Globosat",Canal Brasil
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2066
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais HBO ",HBO HD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO Globosat ",HBO HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2144
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais HBO ",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO Globosat ",HBO
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2139
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Canais HBO ",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="HBO Globosat ",HBO 2 HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2141
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://printv.esy.es/server/HBO%202.png" group-title="Canais HBO ",HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://printv.esy.es/server/HBO%202.png" group-title="HBO Globosat ",HBO 2
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2140
-#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="Canais HBO ",HBO Plus HD
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="HBO Globosat ",HBO Plus HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2146
-#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="Canais HBO ",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="HBO Globosat ",HBO Plus
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2145
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://printv.esy.es/server/HBO%20Family%20HD.png" group-title="Canais HBO ",HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://printv.esy.es/server/HBO%20Family%20HD.png" group-title="HBO Globosat ",HBO Family HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2143
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://printv.esy.es/server/HBO%20Family.png" group-title="Canais HBO ",HBO Family
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://printv.esy.es/server/HBO%20Family.png" group-title="HBO Globosat ",HBO Family
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2142
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://printv.esy.es/server/HBO%20Signature%20HD.png" group-title="Canais HBO ",HBO Signature HD
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://printv.esy.es/server/HBO%20Signature%20HD.png" group-title="HBO Globosat ",HBO Signature HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2148
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="Canais HBO ",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="HBO Globosat ",HBO Signature
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2147
-#EXTINF:-1 tvg-id="Max" tvg-name="MAX HD" tvg-logo="http://printv.esy.es/server/Max%20HD.png" group-title="Canais HBO ",MAX HD
+#EXTINF:-1 tvg-id="Max" tvg-name="MAX HD" tvg-logo="http://printv.esy.es/server/Max%20HD.png" group-title="HBO Globosat ",MAX HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2158
-#EXTINF:-1 tvg-id="Max" tvg-name="MAX" tvg-logo="http://printv.esy.es/server/Max.png" group-title="Canais HBO ",MAX
+#EXTINF:-1 tvg-id="Max" tvg-name="MAX" tvg-logo="http://printv.esy.es/server/Max.png" group-title="HBO Globosat ",MAX
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2157
-#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Canais HBO ",Max UP HD
+#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="HBO Globosat ",Max UP HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2162
-#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Canais HBO ",Max UP
+#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="HBO Globosat ",Max UP
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2161
-#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Canais HBO ",Max Prime HD
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="HBO Globosat ",Max Prime HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2160
-#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Canais HBO ",Max Prime
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="HBO Globosat ",Max Prime
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2159
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Documentarios",Animal Planet HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2050
@@ -399,8 +365,6 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2109
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2267
 #EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Variedades & Musicas",Woohoo
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2266
-#EXTINF:-1 tvg-id="" tvg-name="Polishop TV" tvg-logo="http://printv.esy.es/server/Polishop.png" group-title="Variedades & Musicas",Polishop TV
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2294
 #EXTINF:-1 tvg-id="" tvg-name="US: NFL-Flow-1" tvg-logo="https://i.postimg.cc/kGTx0CrT/NFL-Now.png" group-title="NFL NBA CHAMP",US: NFL-Flow-1
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/12518
 #EXTINF:-1 tvg-id="" tvg-name="US: NFL-Flow-2" tvg-logo="https://i.postimg.cc/kGTx0CrT/NFL-Now.png" group-title="NFL NBA CHAMP",US: NFL-Flow-2
@@ -455,8 +419,6 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2298
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/11442
 #EXTINF:-1 tvg-id="XXX PORNO XXX" tvg-name="Hustler TV" tvg-logo="http://printv.esy.es/server/Hustler%20TV.png" group-title="Adultos",Hustler TV
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/11418
-#EXTINF:-1 tvg-id="" tvg-name="Canal Gay " tvg-logo="http://printv.esy.es/server/Gay%20Porn.png" group-title="Adultos",Canal Gay 
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/11098
 #EXTINF:-1 tvg-id="" tvg-name="XXX 1" tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Adultos",XXX 1
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2587
 #EXTINF:-1 tvg-id="" tvg-name="XXX 2" tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Adultos",XXX 2
@@ -517,4 +479,3 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2614
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2615
 #EXTINF:-1 tvg-id="" tvg-name="XXX 30" tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Adultos",XXX 30
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2616
-
