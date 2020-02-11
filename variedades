@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades & Musicas",Mais Globosat HD
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2156
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="http://printv.esy.es/server/Globosat.png" group-title="Variedades & Musicas",Mais Globosat
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2155
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Variedades & Musicas",Multishow HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2168
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://printv.esy.es/server/Multishow.png" group-title="Variedades & Musicas",Multishow
@@ -7,10 +11,6 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2167
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2263
 #EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="Variedades & Musicas",Viva
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2262
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades & Musicas",Mais Globosat HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2156
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="http://printv.esy.es/server/Globosat.png" group-title="Variedades & Musicas",Mais Globosat
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2155
 #EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Variedades & Musicas",GNT HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2136
 #EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://printv.esy.es/server/GNT.png" group-title="Variedades & Musicas",GNT
