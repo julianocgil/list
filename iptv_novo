@@ -185,37 +185,37 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2214
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2067
 #EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="HBO Globosat",Canal Brasil
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2066
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO Globosat ",HBO HD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO Globosat",HBO HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2144
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO Globosat ",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="HBO Globosat",HBO
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2139
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="HBO Globosat ",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="HBO Globosat",HBO 2 HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2141
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://printv.esy.es/server/HBO%202.png" group-title="HBO Globosat ",HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://printv.esy.es/server/HBO%202.png" group-title="HBO Globosat",HBO 2
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2140
-#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="HBO Globosat ",HBO Plus HD
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="HBO Globosat",HBO Plus HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2146
-#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="HBO Globosat ",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="HBO Globosat",HBO Plus
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2145
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://printv.esy.es/server/HBO%20Family%20HD.png" group-title="HBO Globosat ",HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://printv.esy.es/server/HBO%20Family%20HD.png" group-title="HBO Globosat",HBO Family HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2143
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://printv.esy.es/server/HBO%20Family.png" group-title="HBO Globosat ",HBO Family
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://printv.esy.es/server/HBO%20Family.png" group-title="HBO Globosat",HBO Family
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2142
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://printv.esy.es/server/HBO%20Signature%20HD.png" group-title="HBO Globosat ",HBO Signature HD
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://printv.esy.es/server/HBO%20Signature%20HD.png" group-title="HBO Globosat",HBO Signature HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2148
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="HBO Globosat ",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="HBO Globosat",HBO Signature
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2147
-#EXTINF:-1 tvg-id="Max" tvg-name="MAX HD" tvg-logo="http://printv.esy.es/server/Max%20HD.png" group-title="HBO Globosat ",MAX HD
+#EXTINF:-1 tvg-id="Max" tvg-name="MAX HD" tvg-logo="http://printv.esy.es/server/Max%20HD.png" group-title="HBO Globosat",MAX HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2158
-#EXTINF:-1 tvg-id="Max" tvg-name="MAX" tvg-logo="http://printv.esy.es/server/Max.png" group-title="HBO Globosat ",MAX
+#EXTINF:-1 tvg-id="Max" tvg-name="MAX" tvg-logo="http://printv.esy.es/server/Max.png" group-title="HBO Globosat",MAX
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2157
-#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="HBO Globosat ",Max UP HD
+#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="HBO Globosat",Max UP HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2162
-#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="HBO Globosat ",Max UP
+#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="HBO Globosat",Max UP
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2161
-#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="HBO Globosat ",Max Prime HD
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="HBO Globosat",Max Prime HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2160
-#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="HBO Globosat ",Max Prime
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="HBO Globosat",Max Prime
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2159
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Documentarios",Animal Planet HD
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2050
