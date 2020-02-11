@@ -31,3 +31,15 @@ http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1938
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2285
 #EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Abertos",RecordTV RS
 http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2286
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News HD
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2130
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="Noticias",Globo News
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2129
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Noticias",Band News HD
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2058
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="Noticias",Band News
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2057
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News HD
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2205
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News
+http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2204
