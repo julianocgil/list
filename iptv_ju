@@ -41,10 +41,6 @@ http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2300
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2076
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2060
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="NFL NBA CHAMP",DAZN 1 HD
-http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2303
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="NFL NBA CHAMP",DAZN 2 HD 
-http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2304
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2199
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 HD
@@ -165,5 +161,3 @@ http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2100
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2110
 #EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Variedades & Musicas",Woohoo HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2267
-#EXTINF:-1 tvg-id="" tvg-name="Playboy HD" tvg-logo="http://printv.esy.es/server/Playboy%20TV.png" group-title="Adultos",Playboy HD
-http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2297
