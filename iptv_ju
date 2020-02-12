@@ -111,7 +111,7 @@ http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2150
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2138
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo HD" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Documentarios",Nat Geo HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2172
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",NatGeo Wild HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2175
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2289
