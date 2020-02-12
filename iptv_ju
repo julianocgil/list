@@ -97,10 +97,8 @@ http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2050
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2082
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Documentarios",Discovery Turbo HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2093
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health HD
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="Discovery HomeHealth HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2086
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health
-http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2085
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="HGTV HD" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Documentarios",HGTV HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2084
 #EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Investigation Discovery HD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Documentarios",Investigation Discovery HD
@@ -117,7 +115,7 @@ http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2172
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2175
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2289
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades & Musicas",Mais Globosat HD
+#EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades & Musicas",Mais Globosat HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2156
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Variedades & Musicas",Multishow HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2168
