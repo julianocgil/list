@@ -111,11 +111,11 @@ http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2150
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2138
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo HD" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Documentarios",Nat Geo HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2172
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",NatGeo Wild HD
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",NatGeo Wild HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2175
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2289
-#EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades & Musicas",Mais GloboSat HD
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais GloboSat HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Variedades & Musicas",Mais GloboSat HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2156
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Variedades & Musicas",Multishow HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2168
@@ -145,7 +145,7 @@ http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2260
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2170
 #EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil HD" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil%20HD.png" group-title="Variedades & Musicas",Prime Box Brasil HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2201
-#EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Variedades & Musicas",Curta! HD
+#EXTINF:-1 tvg-id="Curta" tvg-name="Curta! HD" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Variedades & Musicas",Curta! HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2080
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Variedades & Musicas",Arte 1 HD
 http://dns.clientetv.xyz:8000/dspAAN6hQg/NXCvMKV9GH/2052
