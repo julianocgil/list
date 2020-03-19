@@ -1,49 +1,49 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",Sportv HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2038
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2038
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",Sportv
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2218
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2218
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",Sportv 2 HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2036
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2036
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",Sportv 2
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2219
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2219
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",Sportv 3 HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2037
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2037
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",Sportv 3
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2220
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2220
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",Fox Sports HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2122
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2122
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="Esportes",Fox Sports
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2121
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2121
 #EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2124
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2124
 #EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202.png" group-title="Esportes",Fox Sports 2
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2123
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2123
 #EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil HD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes",Espn Brasil HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2105
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2105
 #EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="Esportes",Espn Brasil
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2104
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2104
 #EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes",Espn HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2108
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2108
 #EXTINF:-1 tvg-id="ESPN" tvg-name="Espn" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes",Espn
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2101
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2101
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2 HD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",Espn 2 HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2103
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2103
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",Espn 2
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2102
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2102
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="Espn Extra HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",Espn Extra HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2107
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2107
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="Espn Extra" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",Espn Extra
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2106
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2106
 #EXTINF:-1 tvg-id="" tvg-name="EI Plus HD" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",EI Plus HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2300
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2300
 #EXTINF:-1 tvg-id="" tvg-name="EI Plus" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",EI Plus
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2301
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2301
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2076
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2076
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2075
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2075
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2060
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2060
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="Esportes",Band Sports
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2059
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2059
