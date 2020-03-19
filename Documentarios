@@ -1,53 +1,53 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Documentarios",Animal Planet HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2050
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2050
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://printv.esy.es/server/Animal%20Planet.png" group-title="Documentarios",Animal Planet
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2049
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2049
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Documentarios",Discovery Channel HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2082
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2082
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://printv.esy.es/server/Discovery%20Channel.png" group-title="Documentarios",Discovery Channel
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2081
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2081
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Documentarios",Discovery Turbo HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2093
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2093
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo.png" group-title="Documentarios",Discovery Turbo
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2092
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2092
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2086
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2086
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2085
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2085
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="HGTV HD" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Documentarios",HGTV HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2084
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2084
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="HGTV " tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Documentarios",HGTV 
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2083
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2083
 #EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Investigation Discovery HD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Documentarios",Investigation Discovery HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2152
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2152
 #EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Investigation Discovery" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery.png" group-title="Documentarios",Investigation Discovery
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2151
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2151
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="http://printv.esy.es/server/Discovery%20World.png" group-title="Documentarios",Discovery World
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2094
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2094
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Documentarios",Discovery Theater HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2091
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2091
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="http://printv.esy.es/server/Discovery%20Theater.png" group-title="Documentarios",Discovery Theater
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2090
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2090
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://printv.esy.es/server/Discovery%20Science.png" group-title="Documentarios",Discovery Science
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2089
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2089
 #EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Documentarios",History HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2150
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2150
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://printv.esy.es/server/The%20History%20Channel.png" group-title="Documentarios",History
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2149
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2149
 #EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Documentarios",H2 HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2138
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2138
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://printv.esy.es/server/H2.png" group-title="Documentarios",H2
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2137
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2137
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild.png" group-title="Documentarios",Nat Geo Wild
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2176
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2176
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo HD" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Documentarios",Nat Geo HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2172
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2172
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo" tvg-logo="http://printv.esy.es/server/National%20Geographic.png" group-title="Documentarios",Nat Geo
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2171
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2171
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",Nat Geo Wild HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2175
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2175
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2289
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2289
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2290
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2290
