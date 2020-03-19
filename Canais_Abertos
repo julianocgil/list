@@ -1,45 +1,45 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais Abertos",SBT HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2212
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2212
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2211
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2211
 #EXTINF:-1 tvg-id="SBT SP Interior" tvg-name="SBT SP Interior" tvg-logo="http://printv.esy.es/server/SBT%20Interior.png" group-title="Canais Abertos",SBT SP Interior
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2213
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2213
 #EXTINF:-1 tvg-id="Band" tvg-name="Band SP HD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band SP HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2056
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2056
 #EXTINF:-1 tvg-id="Band" tvg-name="Band SP" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band SP
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2055
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2055
 #EXTINF:-1 tvg-id="" tvg-name="Band Internacional " tvg-logo="http://printv.esy.es/server/Band%20Internacional.png" group-title="Canais Abertos",Band Internacional 
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/18590
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/18590
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV! HD" tvg-logo="http://printv.esy.es/server/Rede%20TV%21%20HD.png" group-title="Canais Abertos",Rede TV! HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2209
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2209
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV!" tvg-logo="http://printv.esy.es/server/Rede%20TV%21.png" group-title="Canais Abertos",Rede TV!
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2208
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2208
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura HD" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",TV Cultura HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2272
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2272
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",TV Cultura
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2271
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2271
 #EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2126
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2126
 #EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2125
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2125
 #EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV POA HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1939
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/1939
 #EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Abertos",Globo RBS TV POA
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/1938
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/1938
 #EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS HD" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Abertos",RecordTV RS HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2285
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2285
 #EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Abertos",RecordTV RS
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2286
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2286
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2130
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2130
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="Noticias",Globo News
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2129
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2129
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Noticias",Band News HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2058
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2058
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="Noticias",Band News
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2057
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2057
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News HD
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2205
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2205
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News
-http://dns.clientetv.xyz:8000/cliente6284/cliente6284/2204
+http://dns.clientetv.xyz:8000/cliente6284/clienteiptv7/2204
