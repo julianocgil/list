@@ -203,18 +203,6 @@ http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2138
 http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2172
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Canais",Nat Geo Wild HD
 http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2175
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Netowork HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Canais",Cartoon Netowork HD
-http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2072
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Canais",Discovery Kids HD
-http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2088
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Canais",Disney Channel HD
-http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2096
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD HD" tvg-logo="http://printv.esy.es/server/Disney%20XD%20HD.png" group-title="Canais",Disney XD HD
-http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/20622
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Canais",Nickelodeon HD
-http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2181
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast HD " tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="Canais",Tooncast HD 
-http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/20623
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Canais",Multishow HD
 http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2168
 #EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Canais",Viva HD
@@ -225,8 +213,6 @@ http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2156
 http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2136
 #EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Canais",OFF HD
 http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2183
-#EXTINF:-1 tvg-id="" tvg-name="Bis HD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Canais",Bis HD
-http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2062
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Canais",Lifetime HD
 http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2154
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais",TLC HD
@@ -257,3 +243,5 @@ http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/24267
 http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2110
 #EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais",Woohoo HD
 http://dns.clientetv.xyz:8080/cliente6284/clienteiptv7/2267
+#EXTINF:-1 tvg-id="Globo Internacional" tvg-name="Discovery Home&Health HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais",Discovery Home&Health HD
+http://dns.clientetv.xyz:8080/5966284/iptv07/2086
