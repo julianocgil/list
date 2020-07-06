@@ -175,6 +175,8 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/2093
 http://dns.clientetv.xyz:8080/5966284/iptv07/2084
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Canais",Discovery Theater HD
 http://dns.clientetv.xyz:8080/5966284/iptv07/2091
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais",Discovery Home&Health HD
+http://dns.clientetv.xyz:8080/5966284/iptv07/2086
 #EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Canais",History HD
 http://dns.clientetv.xyz:8080/5966284/iptv07/2150
 #EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Canais",H2 HD
@@ -213,15 +215,9 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/2080
 http://dns.clientetv.xyz:8080/5966284/iptv07/2052
 #EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-logo="http://printv.esy.es/server/Tru%20TV%20HD.png" group-title="Canais",TruTV HD
 http://dns.clientetv.xyz:8080/5966284/iptv07/2256
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="http://printv.esy.es/server/Food%20Network%20HD.png" group-title="Canais",Food Network HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/2112
 #EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Canais",E! HD
 http://dns.clientetv.xyz:8080/5966284/iptv07/2100
-#EXTINF:-1 tvg-id="" tvg-name="Chef TV HD " tvg-logo="http://printv.esy.es/server/Chef%20TV.png" group-title="Canais",Chef TV HD 
-http://dns.clientetv.xyz:8080/5966284/iptv07/24267
 #EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV HD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais",Fish TV HD
 http://dns.clientetv.xyz:8080/5966284/iptv07/2110
 #EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais",Woohoo HD
 http://dns.clientetv.xyz:8080/5966284/iptv07/2267
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais",Discovery Home&Health HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/2086
