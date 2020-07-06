@@ -163,26 +163,6 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/2258
 http://dns.clientetv.xyz:8080/5966284/iptv07/2265
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner HD LEG" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Canais",Warner HD LEG
 http://dns.clientetv.xyz:8080/5966284/iptv07/2367
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 01 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 01 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24797
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 02 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24798
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 03 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24799
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 04 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24800
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 05 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 05 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24801
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 06 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 06 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24802
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 07 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 07 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24803
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 08 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 08 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24804
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 09 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 09 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24805
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10 HD" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="Canais",Cine Sky 10 HD
-http://dns.clientetv.xyz:8080/5966284/iptv07/24826
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD Dual " tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Canais",Combate HD Dual 
 http://dns.clientetv.xyz:8080/5966284/iptv07/24979
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Canais",Animal Planet HD
