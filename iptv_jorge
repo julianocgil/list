@@ -217,7 +217,7 @@ http://dns.clientetv.xyz:8080/59662841/iptv7/2256
 http://dns.clientetv.xyz:8080/59662841/iptv7/2100
 #EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV HD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais",Fish TV HD
 http://dns.clientetv.xyz:8080/59662841/iptv7/2110
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais",Woohoo HD
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo H" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais",Woohoo HD
 http://dns.clientetv.xyz:8080/59662841/iptv7/2267
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais",Discovery Home&Health HD
 http://dns.clientetv.xyz:8080/5966284/iptv07/2086
