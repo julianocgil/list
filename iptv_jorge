@@ -1,223 +1,223 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="http://printv.esy.es/server/Globo%20SÃ£o%20Paulo.png" group-title="Canais",Globo SP HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/1948
+http://dns.clientetv.xyz:8080/59662841/iptv7/1948
 #EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS TV POA HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais",Globo RBS TV POA HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/1939
+http://dns.clientetv.xyz:8080/59662841/iptv7/1939
 #EXTINF:-1 tvg-id="Record SP" tvg-name="RecordTV SP HD" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais",RecordTV SP HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2206
+http://dns.clientetv.xyz:8080/59662841/iptv7/2206
 #EXTINF:-1 tvg-id="Record RS" tvg-name="RecordTV RS HD" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais",RecordTV RS HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2285
+http://dns.clientetv.xyz:8080/59662841/iptv7/2285
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais",SBT HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2212
+http://dns.clientetv.xyz:8080/59662841/iptv7/2212
 #EXTINF:-1 tvg-id="Band" tvg-name="Band SP HD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais",Band SP HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2056
+http://dns.clientetv.xyz:8080/59662841/iptv7/2056
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Canais",Globo News HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2130
+http://dns.clientetv.xyz:8080/59662841/iptv7/2130
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Canais",Band News HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2058
+http://dns.clientetv.xyz:8080/59662841/iptv7/2058
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Canais",Record News HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2205
+http://dns.clientetv.xyz:8080/59662841/iptv7/2205
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="http://printv.esy.es/server/CNN.png" group-title="Canais",CNN Brasil HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/22225
+http://dns.clientetv.xyz:8080/59662841/iptv7/22225
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Canais",SporTV HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2038
+http://dns.clientetv.xyz:8080/59662841/iptv7/2038
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Canais",SporTV 2 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2036
+http://dns.clientetv.xyz:8080/59662841/iptv7/2036
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Canais",SporTV 3 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2037
+http://dns.clientetv.xyz:8080/59662841/iptv7/2037
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Canais",Fox Sports HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2122
+http://dns.clientetv.xyz:8080/59662841/iptv7/2122
 #EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Canais",Fox Sports 2 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2124
+http://dns.clientetv.xyz:8080/59662841/iptv7/2124
 #EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil HD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Canais",Espn Brasil HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2105
+http://dns.clientetv.xyz:8080/59662841/iptv7/2105
 #EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Canais",Espn HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2108
+http://dns.clientetv.xyz:8080/59662841/iptv7/2108
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2 HD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Canais",Espn 2 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2103
+http://dns.clientetv.xyz:8080/59662841/iptv7/2103
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="Espn Extra HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Canais",Espn Extra HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2107
+http://dns.clientetv.xyz:8080/59662841/iptv7/2107
 #EXTINF:-1 tvg-id="" tvg-name="EI Plus HD" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Canais",EI Plus HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2300
+http://dns.clientetv.xyz:8080/59662841/iptv7/2300
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Canais",Combate FHD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/1880
+http://dns.clientetv.xyz:8080/59662841/iptv7/1880
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Canais",Combate HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2076
+http://dns.clientetv.xyz:8080/59662841/iptv7/2076
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Canais",Combate
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2075
+http://dns.clientetv.xyz:8080/59662841/iptv7/2075
 #EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Combate Alternativo HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Canais",Combate Alternativo HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/1291
+http://dns.clientetv.xyz:8080/59662841/iptv7/1291
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate Alternativo" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Canais",Combate Alternativo
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/1186
+http://dns.clientetv.xyz:8080/59662841/iptv7/1186
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Canais",Band Sports HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2060
+http://dns.clientetv.xyz:8080/59662841/iptv7/2060
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Canais",Premiere Clubes HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2199
+http://dns.clientetv.xyz:8080/59662841/iptv7/2199
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Canais",Premiere 2 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2187
+http://dns.clientetv.xyz:8080/59662841/iptv7/2187
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Canais",Premiere 3 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2189
+http://dns.clientetv.xyz:8080/59662841/iptv7/2189
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Canais",Premiere 4 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2191
+http://dns.clientetv.xyz:8080/59662841/iptv7/2191
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Canais",Premiere 5 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2193
+http://dns.clientetv.xyz:8080/59662841/iptv7/2193
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Canais",Premiere 6 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2195
+http://dns.clientetv.xyz:8080/59662841/iptv7/2195
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Canais",Premiere 7 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2197
+http://dns.clientetv.xyz:8080/59662841/iptv7/2197
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Canais",Telecine Premium HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2235
+http://dns.clientetv.xyz:8080/59662841/iptv7/2235
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Canais",Telecine Action HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2227
+http://dns.clientetv.xyz:8080/59662841/iptv7/2227
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Canais",Telecine Touch HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2237
+http://dns.clientetv.xyz:8080/59662841/iptv7/2237
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Canais",Telecine Pipoca HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2233
+http://dns.clientetv.xyz:8080/59662841/iptv7/2233
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Canais",Telecine Fun HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2231
+http://dns.clientetv.xyz:8080/59662841/iptv7/2231
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="Canais",Telecine Cult HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2229
+http://dns.clientetv.xyz:8080/59662841/iptv7/2229
 #EXTINF:-1 tvg-id="MegaPix" tvg-name="Megapix HD" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="Canais",Megapix HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2164
+http://dns.clientetv.xyz:8080/59662841/iptv7/2164
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://printv.esy.es/server/Studio%20Universal%20HD.png" group-title="Canais",Studio Universal HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2222
+http://dns.clientetv.xyz:8080/59662841/iptv7/2222
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="http://printv.esy.es/server/Syfy%20HD.png" group-title="Canais",Syfy HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2215
+http://dns.clientetv.xyz:8080/59662841/iptv7/2215
 #EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Canais",Canal Brasil HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2067
+http://dns.clientetv.xyz:8080/59662841/iptv7/2067
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais",HBO HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2144
+http://dns.clientetv.xyz:8080/59662841/iptv7/2144
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Canais",HBO 2 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2141
+http://dns.clientetv.xyz:8080/59662841/iptv7/2141
 #EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="Canais",HBO Plus HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2146
+http://dns.clientetv.xyz:8080/59662841/iptv7/2146
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://printv.esy.es/server/HBO%20Family%20HD.png" group-title="Canais",HBO Family HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2143
+http://dns.clientetv.xyz:8080/59662841/iptv7/2143
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://printv.esy.es/server/HBO%20Signature%20HD.png" group-title="Canais",HBO Signature HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2148
+http://dns.clientetv.xyz:8080/59662841/iptv7/2148
 #EXTINF:-1 tvg-id="Max" tvg-name="HBO Mundi HD" tvg-logo="http://printv.esy.es/server/HBO%20Mundi.png" group-title="Canais",HBO Mundi HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2158
+http://dns.clientetv.xyz:8080/59662841/iptv7/2158
 #EXTINF:-1 tvg-id="Max UP" tvg-name="HBO POP HD" tvg-logo="http://printv.esy.es/server/HBO%20Pop.png" group-title="Canais",HBO POP HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2162
+http://dns.clientetv.xyz:8080/59662841/iptv7/2162
 #EXTINF:-1 tvg-id="Max Prime" tvg-name="HBO Xtreme HD" tvg-logo="http://printv.esy.es/server/HBO%20Xtreme.png" group-title="Canais",HBO Xtreme HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2160
+http://dns.clientetv.xyz:8080/59662841/iptv7/2160
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="Canais",AMC HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2048
+http://dns.clientetv.xyz:8080/59662841/iptv7/2048
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Canais",AXN HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2054
+http://dns.clientetv.xyz:8080/59662841/iptv7/2054
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD LEG" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Canais",AXN HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2335
+http://dns.clientetv.xyz:8080/59662841/iptv7/2335
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Canais",Cinemax HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2074
+http://dns.clientetv.xyz:8080/59662841/iptv7/2074
 #EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Canais",Fox HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2114
+http://dns.clientetv.xyz:8080/59662841/iptv7/2114
 #EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD LEG" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Canais",Fox HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2337
+http://dns.clientetv.xyz:8080/59662841/iptv7/2337
 #EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1 HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Canais",Fox Premium 1 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2118
+http://dns.clientetv.xyz:8080/59662841/iptv7/2118
 #EXTINF:-1 tvg-id="FoxPremium2" tvg-name="Fox Premium 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Canais",Fox Premium 2 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2120
+http://dns.clientetv.xyz:8080/59662841/iptv7/2120
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://printv.esy.es/server/FX%20HD.png" group-title="Canais",FX HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2128
+http://dns.clientetv.xyz:8080/59662841/iptv7/2128
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD LEG" tvg-logo="http://printv.esy.es/server/FX%20HD.png" group-title="Canais",FX HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2357
+http://dns.clientetv.xyz:8080/59662841/iptv7/2357
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD LEG" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais",HBO HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2339
+http://dns.clientetv.xyz:8080/59662841/iptv7/2339
 #EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD LEG" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="Canais",HBO Plus HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2341
+http://dns.clientetv.xyz:8080/59662841/iptv7/2341
 #EXTINF:-1 tvg-id="MegaPix" tvg-name="Megapix HD LEG" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="Canais",Megapix HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2361
+http://dns.clientetv.xyz:8080/59662841/iptv7/2361
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Channel HD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Canais",Paramount Channel HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2185
+http://dns.clientetv.xyz:8080/59662841/iptv7/2185
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony Channel HD" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Canais",Sony Channel HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2069
+http://dns.clientetv.xyz:8080/59662841/iptv7/2069
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony Channel HD LEG" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Canais",Sony Channel HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2369
+http://dns.clientetv.xyz:8080/59662841/iptv7/2369
 #EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Canais",Space HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2217
+http://dns.clientetv.xyz:8080/59662841/iptv7/2217
 #EXTINF:-1 tvg-id="Space" tvg-name="Space HD LEG" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Canais",Space HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2363
+http://dns.clientetv.xyz:8080/59662841/iptv7/2363
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Canais",TBS HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2224
+http://dns.clientetv.xyz:8080/59662841/iptv7/2224
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Canais",Telecine Action HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2345
+http://dns.clientetv.xyz:8080/59662841/iptv7/2345
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Canais",Telecine Fun HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2347
+http://dns.clientetv.xyz:8080/59662841/iptv7/2347
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Canais",Telecine Pipoca HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2349
+http://dns.clientetv.xyz:8080/59662841/iptv7/2349
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Canais",Telecine Premium HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2351
+http://dns.clientetv.xyz:8080/59662841/iptv7/2351
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Canais",Telecine Touch HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2353
+http://dns.clientetv.xyz:8080/59662841/iptv7/2353
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Canais",TNT HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2242
+http://dns.clientetv.xyz:8080/59662841/iptv7/2242
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD LEG" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Canais",TNT HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2355
+http://dns.clientetv.xyz:8080/59662841/iptv7/2355
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series HD" tvg-logo="http://printv.esy.es/server/TNT%20SÃƒÂ©ries%20HD.png" group-title="Canais",TNT Series HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2244
+http://dns.clientetv.xyz:8080/59662841/iptv7/2244
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series HD LEG" tvg-logo="http://printv.esy.es/server/TNT%20S%C3%A9ries%20HD.png" group-title="Canais",TNT Series HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2365
+http://dns.clientetv.xyz:8080/59662841/iptv7/2365
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="http://printv.esy.es/server/Universal%20Channel%20HD.png" group-title="Canais",Universal Channel HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2258
+http://dns.clientetv.xyz:8080/59662841/iptv7/2258
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Canais",Warner Channel HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2265
+http://dns.clientetv.xyz:8080/59662841/iptv7/2265
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner HD LEG" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Canais",Warner HD LEG
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2367
+http://dns.clientetv.xyz:8080/59662841/iptv7/2367
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD Dual " tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Canais",Combate HD Dual 
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/24979
+http://dns.clientetv.xyz:8080/59662841/iptv7/24979
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Canais",Animal Planet HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2050
+http://dns.clientetv.xyz:8080/59662841/iptv7/2050
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Canais",Discovery Channel HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2082
+http://dns.clientetv.xyz:8080/59662841/iptv7/2082
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Canais",Discovery Turbo HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2093
+http://dns.clientetv.xyz:8080/59662841/iptv7/2093
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="HGTV HD" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Canais",HGTV HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2084
+http://dns.clientetv.xyz:8080/59662841/iptv7/2084
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Canais",Discovery Theater HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2091
+http://dns.clientetv.xyz:8080/59662841/iptv7/2091
 #EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Canais",History HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2150
+http://dns.clientetv.xyz:8080/59662841/iptv7/2150
 #EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Canais",H2 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2138
+http://dns.clientetv.xyz:8080/59662841/iptv7/2138
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo HD" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Canais",Nat Geo HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2172
+http://dns.clientetv.xyz:8080/59662841/iptv7/2172
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Canais",Nat Geo Wild HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2175
+http://dns.clientetv.xyz:8080/59662841/iptv7/2175
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Canais",Multishow HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2168
+http://dns.clientetv.xyz:8080/59662841/iptv7/2168
 #EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Canais",Viva HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2263
+http://dns.clientetv.xyz:8080/59662841/iptv7/2263
 #EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Canais",Mais Globosat HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2156
+http://dns.clientetv.xyz:8080/59662841/iptv7/2156
 #EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Canais",GNT HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2136
+http://dns.clientetv.xyz:8080/59662841/iptv7/2136
 #EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Canais",OFF HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2183
+http://dns.clientetv.xyz:8080/59662841/iptv7/2183
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Canais",Lifetime HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2154
+http://dns.clientetv.xyz:8080/59662841/iptv7/2154
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais",TLC HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2240
+http://dns.clientetv.xyz:8080/59662841/iptv7/2240
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Canais",A&E HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2046
+http://dns.clientetv.xyz:8080/59662841/iptv7/2046
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="http://printv.esy.es/server/Comedy%20Central%20HD.png" group-title="Canais",Comedy Central HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2078
+http://dns.clientetv.xyz:8080/59662841/iptv7/2078
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="Canais",MTV HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2166
+http://dns.clientetv.xyz:8080/59662841/iptv7/2166
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="Canais",MTV Live HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2270
+http://dns.clientetv.xyz:8080/59662841/iptv7/2270
 #EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://printv.esy.es/server/VH1%20HD.png" group-title="Canais",VH1 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2260
+http://dns.clientetv.xyz:8080/59662841/iptv7/2260
 #EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Canais",Curta! HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2080
+http://dns.clientetv.xyz:8080/59662841/iptv7/2080
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Canais",Arte 1 HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2052
+http://dns.clientetv.xyz:8080/59662841/iptv7/2052
 #EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-logo="http://printv.esy.es/server/Tru%20TV%20HD.png" group-title="Canais",TruTV HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2256
+http://dns.clientetv.xyz:8080/59662841/iptv7/2256
 #EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Canais",E! HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2100
+http://dns.clientetv.xyz:8080/59662841/iptv7/2100
 #EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV HD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Canais",Fish TV HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2110
+http://dns.clientetv.xyz:8080/59662841/iptv7/2110
 #EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais",Woohoo HD
-http://dns.clientetv.xyz:8080/59662841/clienteiptv7/2267
+http://dns.clientetv.xyz:8080/59662841/iptv7/2267
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais",Discovery Home&Health HD
 http://dns.clientetv.xyz:8080/5966284/iptv07/2086
