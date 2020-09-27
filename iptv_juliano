@@ -221,3 +221,19 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/2100
 http://dns.clientetv.xyz:8080/5966284/iptv07/2110
 #EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais",Woohoo HD
 http://dns.clientetv.xyz:8080/5966284/iptv07/2267
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV 1 
+http://dns.clientetv.xyz:8080/5966284/iptv07/35222
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV Alternativo 1" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV Alternativo 1
+http://dns.clientetv.xyz:8080/5966284/iptv07/35232
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV 2 
+http://dns.clientetv.xyz:8080/5966284/iptv07/35223
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV Alternativo 2" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV Alternativo 2
+http://dns.clientetv.xyz:8080/5966284/iptv07/35233
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV 3
+http://dns.clientetv.xyz:8080/5966284/iptv07/35230
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV Alternativo 3 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV Alternativo 3 
+http://dns.clientetv.xyz:8080/5966284/iptv07/35242
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV 4
+http://dns.clientetv.xyz:8080/5966284/iptv07/35231
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV Alternativo 4 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV Alternativo 4 
+http://dns.clientetv.xyz:8080/5966284/iptv07/35243
