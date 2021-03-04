@@ -89,52 +89,32 @@ http://dns.clientetv.xyz:8080/59662841/iptv07/39413
 http://dns.clientetv.xyz:8080/59662841/iptv07/39414
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1898
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes HD
-http://dns.clientetv.xyz:8080/59662841/iptv07/2199
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes.png" group-title="Premiere",Premiere Clubes
-http://dns.clientetv.xyz:8080/59662841/iptv07/2198
 #EXTINF:-1 tvg-id="PFC" tvg-name="PFC Internacional " tvg-logo="http://printv.esy.es/server/PFC%20Interativo.png" group-title="Premiere",PFC Internacional 
 http://dns.clientetv.xyz:8080/59662841/iptv07/1605
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 2 FHD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1892
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 HD
 http://dns.clientetv.xyz:8080/59662841/iptv07/2187
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2
-http://dns.clientetv.xyz:8080/59662841/iptv07/2186
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1893
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 HD
 http://dns.clientetv.xyz:8080/59662841/iptv07/2189
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3
-http://dns.clientetv.xyz:8080/59662841/iptv07/2188
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 4 FHD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1894
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 4 HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 HD
 http://dns.clientetv.xyz:8080/59662841/iptv07/2191
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4
-http://dns.clientetv.xyz:8080/59662841/iptv07/2190
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1895
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 5 HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 HD
 http://dns.clientetv.xyz:8080/59662841/iptv07/2193
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5
-http://dns.clientetv.xyz:8080/59662841/iptv07/2192
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1896
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6 HD
 http://dns.clientetv.xyz:8080/59662841/iptv07/2195
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6
-http://dns.clientetv.xyz:8080/59662841/iptv07/2194
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1897
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7 HD
 http://dns.clientetv.xyz:8080/59662841/iptv07/2197
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7
-http://dns.clientetv.xyz:8080/59662841/iptv07/2196
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://printv.esy.es/server/Premiere%208.png" group-title="Premiere",Premiere 8
-http://dns.clientetv.xyz:8080/59662841/iptv07/1162
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://printv.esy.es/server/Premiere%209.png" group-title="Premiere",Premiere 9
-http://dns.clientetv.xyz:8080/59662841/iptv07/7947
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Globosat Filmes",Telecine Premium FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1904
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Globosat Filmes",Telecine Action FHD
@@ -231,14 +211,8 @@ http://dns.clientetv.xyz:8080/59662841/iptv07/6592
 http://dns.clientetv.xyz:8080/59662841/iptv07/2280
 #EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network H265" tvg-logo="http://printv.esy.es/server/Food%20Network%20HD.png" group-title="Canais H265",Food Network H265
 http://dns.clientetv.xyz:8080/59662841/iptv07/6593
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes & Series",Star Channel
-http://dns.clientetv.xyz:8080/59662841/iptv07/2113
 #EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel FHD" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes & Series",Star Channel FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1885
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel H265" tvg-logo="http://printv.esy.es/server/Fox%20HD.png" group-title="Canais H265",Star Channel H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6594
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel HD" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes & Series",Star Channel HD
-http://dns.clientetv.xyz:8080/59662841/iptv07/2114
 #EXTINF:-1 tvg-id="fox.life.br" tvg-name="Star Life" tvg-logo="http://printv.esy.es/server/Fox%20Life.png" group-title="Filmes & Series",Star Life
 http://dns.clientetv.xyz:8080/59662841/iptv07/2115
 #EXTINF:-1 tvg-id="fox.life.br" tvg-name="Star Life FHD" tvg-logo="http://printv.esy.es/server/Fox%20Life%20HD.png" group-title="Filmes & Series",Star Life FHD
@@ -295,20 +269,10 @@ http://dns.clientetv.xyz:8080/59662841/iptv07/6565
 http://dns.clientetv.xyz:8080/59662841/iptv07/2184
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1859
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel H265" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Canais H265",Paramount Channel H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6566
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel HD
 http://dns.clientetv.xyz:8080/59662841/iptv07/2185
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Estreia 2 H265" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Canais H265",Estreia 2 H265
 http://dns.clientetv.xyz:8080/59662841/iptv07/6577
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 H265" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Canais H265",Premiere 3 H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6609
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 H265" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Canais H265",Premiere 4 H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6567
-#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 H265" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Canais H265",Premiere 5 H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6568
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes H265" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Canais H265",Premiere Clubes H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6553
 #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel FHD" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1814
 #EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes & Series",Space FHD
@@ -323,16 +287,6 @@ http://dns.clientetv.xyz:8080/59662841/iptv07/6570
 http://dns.clientetv.xyz:8080/59662841/iptv07/1865
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Filmes & Series",TCM
 http://dns.clientetv.xyz:8080/59662841/iptv07/2225
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action H265" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Canais H265",Telecine Action H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6551
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun H265" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Canais H265",Telecine Fun H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6604
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca H265" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Canais H265",Telecine Pipoca H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6554
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium H265" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Canais H265",Telecine Premium H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6555
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch H265" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Canais H265",Telecine Touch H265
-http://dns.clientetv.xyz:8080/59662841/iptv07/6572
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC H265" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais H265",TLC H265
 http://dns.clientetv.xyz:8080/59662841/iptv07/6614
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Filmes & Series",TNT FHD
