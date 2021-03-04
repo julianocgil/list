@@ -197,8 +197,6 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/1903
 http://dns.clientetv.xyz:8080/5966284/iptv07/1904
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Filmes",Telecine Touch
 http://dns.clientetv.xyz:8080/5966284/iptv07/1905
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids
-http://dns.clientetv.xyz:8080/5966284/iptv07/2088
 #EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel
 http://dns.clientetv.xyz:8080/5966284/iptv07/1882
 #EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney Jr" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Infantil",Disney Jr
