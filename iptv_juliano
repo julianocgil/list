@@ -7,15 +7,13 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/6535
 http://dns.clientetv.xyz:8080/5966284/iptv07/6580
 #EXTINF:-1 tvg-id="band.sports.br" tvg-name="Band Sports" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Canais",Band Sports
 http://dns.clientetv.xyz:8080/5966284/iptv07/6537
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Canais",BIS
-http://dns.clientetv.xyz:8080/5966284/iptv07/6581
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Canais",Boomerang
 http://dns.clientetv.xyz:8080/5966284/iptv07/6613
 #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Canais",Canal Brasil
 http://dns.clientetv.xyz:8080/5966284/iptv07/6582
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Canais",Cartoon Network
 http://dns.clientetv.xyz:8080/5966284/iptv07/6583
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Canais",Combate
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
 http://dns.clientetv.xyz:8080/5966284/iptv07/6585
 #EXTINF:-1 tvg-id="the.discovery.br" tvg-name="Discovery Channel" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Canais",Discovery Channel
 http://dns.clientetv.xyz:8080/5966284/iptv07/6543
@@ -25,13 +23,19 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/6586
 http://dns.clientetv.xyz:8080/5966284/iptv07/6588
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Canais",Discovery Theater
 http://dns.clientetv.xyz:8080/5966284/iptv07/6538
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais",Discovery Home&Health
+http://dns.clientetv.xyz:8080/5966284/iptv07/1820
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Canais",Discovery Turbo
+http://dns.clientetv.xyz:8080/5966284/iptv07/1824
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World" tvg-logo="http://printv.esy.es/server/Discovery%20World%20HD.png" group-title="Canais",Discovery World
+http://dns.clientetv.xyz:8080/5966284/iptv07/1825
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Canais",ESPN
 http://dns.clientetv.xyz:8080/5966284/iptv07/6592
 #EXTINF:-1 tvg-id="espn.2.brz.br" tvg-name="ESPN 2" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Canais",ESPN 2
 http://dns.clientetv.xyz:8080/5966284/iptv07/6576
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Brasil" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Canais",ESPN Brasil
 http://dns.clientetv.xyz:8080/5966284/iptv07/6541
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Estreia 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Canais",Estreia 2
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Estreia 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Esportes",Estreia 2
 http://dns.clientetv.xyz:8080/5966284/iptv07/6577
 #EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais",Globo RBS POA
 http://dns.clientetv.xyz:8080/5966284/iptv07/1984
@@ -41,44 +45,28 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/1939
 http://dns.clientetv.xyz:8080/5966284/iptv07/6600
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Canais",Gloob
 http://dns.clientetv.xyz:8080/5966284/iptv07/6598
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="H2" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Canais",H2
-http://dns.clientetv.xyz:8080/5966284/iptv07/6560
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigacao Discovery" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Canais",Investigacao Discovery
-http://dns.clientetv.xyz:8080/5966284/iptv07/6561
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Canais",Love Nature
-http://dns.clientetv.xyz:8080/5966284/iptv07/24783
-#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="Nat Geo Kids" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Canais",Nat Geo Kids
-http://dns.clientetv.xyz:8080/5966284/iptv07/6605
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Canais",H2
+http://dns.clientetv.xyz:8080/5966284/iptv07/1838
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Canais",HGTV
+http://dns.clientetv.xyz:8080/5966284/iptv07/1819
+#EXTINF:-1 tvg-id="history.br" tvg-name="History" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Canais",History
+http://dns.clientetv.xyz:8080/5966284/iptv07/1842
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Canais",Nat Geo
 http://dns.clientetv.xyz:8080/5966284/iptv07/6564
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nick Jr" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Canais",Nick Jr
-http://dns.clientetv.xyz:8080/5966284/iptv07/6608
+#EXTINF:-1 tvg-id="nat.geo.wild.br" tvg-name="Nat Geo Wild" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Canais",Nat Geo Wild
+http://dns.clientetv.xyz:8080/5966284/iptv07/1855
 #EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Canais",Nickelodeon
 http://dns.clientetv.xyz:8080/5966284/iptv07/6607
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Canais",OFF
 http://dns.clientetv.xyz:8080/5966284/iptv07/6565
+#EXTINF:-1 tvg-id="smithsonian.br" tvg-name="Smithsonian Channel" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Canais",Smithsonian Channel
+http://dns.clientetv.xyz:8080/5966284/iptv07/1915
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais",TLC
 http://dns.clientetv.xyz:8080/5966284/iptv07/6614
 #EXTINF:-1 tvg-id="viva.br" tvg-name="Viva" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Canais",Viva
 http://dns.clientetv.xyz:8080/5966284/iptv07/6575
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Canais",WooHoo
 http://dns.clientetv.xyz:8080/5966284/iptv07/6615
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health
-http://dns.clientetv.xyz:8080/5966284/iptv07/1820
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Documentarios",Discovery Turbo
-http://dns.clientetv.xyz:8080/5966284/iptv07/1824
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World" tvg-logo="http://printv.esy.es/server/Discovery%20World%20HD.png" group-title="Documentarios",Discovery World
-http://dns.clientetv.xyz:8080/5966284/iptv07/1825
-#EXTINF:-1 tvg-id="h2.br" tvg-name="H2" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Documentarios",H2
-http://dns.clientetv.xyz:8080/5966284/iptv07/1838
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Documentarios",HGTV
-http://dns.clientetv.xyz:8080/5966284/iptv07/1819
-#EXTINF:-1 tvg-id="history.br" tvg-name="History" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Documentarios",History
-http://dns.clientetv.xyz:8080/5966284/iptv07/1842
-#EXTINF:-1 tvg-id="nat.geo.wild.br" tvg-name="Nat Geo Wild" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",Nat Geo Wild
-http://dns.clientetv.xyz:8080/5966284/iptv07/1855
-#EXTINF:-1 tvg-id="smithsonian.br" tvg-name="Smithsonian Channel" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel
-http://dns.clientetv.xyz:8080/5966284/iptv07/1915
 #EXTINF:-1 tvg-id="band.sports.br" tvg-name="Band Sports" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports
 http://dns.clientetv.xyz:8080/5966284/iptv07/1812
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 01
@@ -87,12 +75,6 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/10897
 http://dns.clientetv.xyz:8080/5966284/iptv07/10898
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 03
 http://dns.clientetv.xyz:8080/5966284/iptv07/10899
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 04
-http://dns.clientetv.xyz:8080/5966284/iptv07/10900
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 05" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 05
-http://dns.clientetv.xyz:8080/5966284/iptv07/10901
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 06" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 06
-http://dns.clientetv.xyz:8080/5966284/iptv07/10902
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
 http://dns.clientetv.xyz:8080/5966284/iptv07/1880
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
@@ -103,10 +85,6 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/2075
 http://dns.clientetv.xyz:8080/5966284/iptv07/40596
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes",Conmebol TV 2 
 http://dns.clientetv.xyz:8080/5966284/iptv07/35223
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes",Conmebol TV 3
-http://dns.clientetv.xyz:8080/5966284/iptv07/35230
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes",Conmebol TV 4
-http://dns.clientetv.xyz:8080/5966284/iptv07/35231
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="Espn Brasil" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes",Espn Brasil
 http://dns.clientetv.xyz:8080/5966284/iptv07/1883
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",ESPN Extra
@@ -225,10 +203,6 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/2088
 http://dns.clientetv.xyz:8080/5966284/iptv07/1882
 #EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney Jr" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Infantil",Disney Jr
 http://dns.clientetv.xyz:8080/5966284/iptv07/1876
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band Internacional " tvg-logo="http://printv.esy.es/server/Band%20Internacional.png" group-title="Noticias",Band Internacional 
-http://dns.clientetv.xyz:8080/5966284/iptv07/45599
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Noticias",Band News
-http://dns.clientetv.xyz:8080/5966284/iptv07/1811
 #EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil " tvg-logo="http://printv.esy.es/server/CNN%20Brasil.png" group-title="Noticias",CNN Brasil 
 http://dns.clientetv.xyz:8080/5966284/iptv07/22224
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News
