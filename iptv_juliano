@@ -265,12 +265,8 @@ http://dns.clientetv.xyz:8080/59662841/iptv07/6608
 http://dns.clientetv.xyz:8080/59662841/iptv07/6607
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF H265" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Canais H265",OFF H265
 http://dns.clientetv.xyz:8080/59662841/iptv07/6565
-#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Channel" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel
-http://dns.clientetv.xyz:8080/59662841/iptv07/2184
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel FHD
 http://dns.clientetv.xyz:8080/59662841/iptv07/1859
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel HD
-http://dns.clientetv.xyz:8080/59662841/iptv07/2185
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Estreia 2 H265" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Canais H265",Estreia 2 H265
 http://dns.clientetv.xyz:8080/59662841/iptv07/6577
 #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel FHD" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel FHD
