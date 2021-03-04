@@ -1,20 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Canais",A&E
 http://dns.clientetv.xyz:8080/5966284/iptv07/6578
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E
-http://dns.clientetv.xyz:8080/5966284/iptv07/1806
 #EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="Filmes & Series",AMC
 http://dns.clientetv.xyz:8080/5966284/iptv07/1807
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Canais",Animal Planet
 http://dns.clientetv.xyz:8080/5966284/iptv07/6535
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Animal Planet" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Documentarios",Animal Planet
-http://dns.clientetv.xyz:8080/5966284/iptv07/1808
 #EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Variedades & Musicas",Arte 1
 http://dns.clientetv.xyz:8080/5966284/iptv07/1809
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Filmes & Series",AXN
 http://dns.clientetv.xyz:8080/5966284/iptv07/1810
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Filmes & Series",AXN
-http://dns.clientetv.xyz:8080/5966284/iptv07/2054
 #EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band Internacional " tvg-logo="http://printv.esy.es/server/Band%20Internacional.png" group-title="Noticias",Band Internacional 
 http://dns.clientetv.xyz:8080/5966284/iptv07/45599
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Canais",Band News
@@ -27,18 +21,12 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/6537
 http://dns.clientetv.xyz:8080/5966284/iptv07/1812
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Canais",BIS
 http://dns.clientetv.xyz:8080/5966284/iptv07/6581
-#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Variedades & Musicas",Bis
-http://dns.clientetv.xyz:8080/5966284/iptv07/1879
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Canais",Boomerang
 http://dns.clientetv.xyz:8080/5966284/iptv07/6613
 #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Canais",Canal Brasil
 http://dns.clientetv.xyz:8080/5966284/iptv07/6582
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Filmes",Canal Brasil
-http://dns.clientetv.xyz:8080/5966284/iptv07/1908
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Canais",Cartoon Network
 http://dns.clientetv.xyz:8080/5966284/iptv07/6583
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network
-http://dns.clientetv.xyz:8080/5966284/iptv07/1815
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 01
 http://dns.clientetv.xyz:8080/5966284/iptv07/10897
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 02
@@ -99,8 +87,6 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/1876
 http://dns.clientetv.xyz:8080/5966284/iptv07/1826
 #EXTINF:-1 tvg-id="espn.2.brz.br" tvg-name="ESPN 2" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Canais",ESPN 2
 http://dns.clientetv.xyz:8080/5966284/iptv07/6576
-#EXTINF:-1 tvg-id="espn.2.brz.br" tvg-name="ESPN 2" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",ESPN 2
-http://dns.clientetv.xyz:8080/5966284/iptv07/1827
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Brasil" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Canais",ESPN Brasil
 http://dns.clientetv.xyz:8080/5966284/iptv07/6541
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="Espn Brasil" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes",Espn Brasil
@@ -269,18 +255,6 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/6614
 http://dns.clientetv.xyz:8080/5966284/iptv07/1867
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series" tvg-logo="http://printv.esy.es/server/TNT%20SÃ©ries%20HD.png" group-title="Filmes & Series",TNT Series
 http://dns.clientetv.xyz:8080/5966284/iptv07/1869
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 02" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 02
-http://dns.clientetv.xyz:8080/5966284/iptv07/39410
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 03" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 03
-http://dns.clientetv.xyz:8080/5966284/iptv07/39411
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 04" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 04
-http://dns.clientetv.xyz:8080/5966284/iptv07/39412
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 05" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 05
-http://dns.clientetv.xyz:8080/5966284/iptv07/39413
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 05" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 05
-http://dns.clientetv.xyz:8080/5966284/iptv07/39414
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports
-http://dns.clientetv.xyz:8080/5966284/iptv07/2300
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Filmes & Series",TNT
 http://dns.clientetv.xyz:8080/5966284/iptv07/1868
 #EXTINF:-1 tvg-id="trutv.br" tvg-name="Trutv" tvg-logo="http://printv.esy.es/server/Tru%20TV%20HD.png" group-title="Variedades & Musicas",Trutv
