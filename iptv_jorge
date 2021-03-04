@@ -193,8 +193,6 @@ http://dns.clientetv.xyz:8080/59662841/iptv07/1904
 http://dns.clientetv.xyz:8080/59662841/iptv07/1905
 #EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel
 http://dns.clientetv.xyz:8080/59662841/iptv07/1882
-#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney Jr" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Infantil",Disney Jr
-http://dns.clientetv.xyz:8080/59662841/iptv07/1876
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network
 http://dns.clientetv.xyz:8080/59662841/iptv07/6583
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades",A&E
