@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS POA
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais",Globo RBS POA
 http://dns.clientetv.xyz:8080/5966284/iptv07/1984
-#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV POA
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais",Globo RBS TV POA
 http://dns.clientetv.xyz:8080/5966284/iptv07/1939
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Canais HBO ",HBO 2
 http://dns.clientetv.xyz:8080/5966284/iptv07/1890
@@ -157,53 +157,53 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/1855
 http://dns.clientetv.xyz:8080/5966284/iptv07/1853
 #EXTINF:-1 tvg-id="smithsonian.br" tvg-name="Smithsonian Channel" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel
 http://dns.clientetv.xyz:8080/5966284/iptv07/1915
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes PPV",Champions League 01
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 01
 http://dns.clientetv.xyz:8080/5966284/iptv07/10897
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes PPV",Champions League 02
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 02
 http://dns.clientetv.xyz:8080/5966284/iptv07/10898
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes PPV",Champions League 03
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 03
 http://dns.clientetv.xyz:8080/5966284/iptv07/10899
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes PPV",Champions League 04
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 04
 http://dns.clientetv.xyz:8080/5966284/iptv07/10900
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 05" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes PPV",Champions League 05
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 05" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 05
 http://dns.clientetv.xyz:8080/5966284/iptv07/10901
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 06" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes PPV",Champions League 06
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 06" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 06
 http://dns.clientetv.xyz:8080/5966284/iptv07/10902
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV 1
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes",Conmebol TV 1
 http://dns.clientetv.xyz:8080/5966284/iptv07/40596
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV 2 
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes",Conmebol TV 2 
 http://dns.clientetv.xyz:8080/5966284/iptv07/35223
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV 3
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes",Conmebol TV 3
 http://dns.clientetv.xyz:8080/5966284/iptv07/35230
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes PPV",Conmebol TV 4
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes",Conmebol TV 4
 http://dns.clientetv.xyz:8080/5966284/iptv07/35231
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 4 " tvg-logo="http://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="Esportes PPV",Copa Nordeste 4 
+#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 4 " tvg-logo="http://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="Esportes",Copa Nordeste 4 
 http://dns.clientetv.xyz:8080/5966284/iptv07/20728
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes PPV",DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes",DAZN 1
 http://dns.clientetv.xyz:8080/5966284/iptv07/2303
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes PPV",DAZN 2 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes",DAZN 2 
 http://dns.clientetv.xyz:8080/5966284/iptv07/2304
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes PPV",DAZN 3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes",DAZN 3
 http://dns.clientetv.xyz:8080/5966284/iptv07/20617
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes PPV",DAZN 4 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes",DAZN 4 
 http://dns.clientetv.xyz:8080/5966284/iptv07/20618
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes PPV",DAZN 5 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes",DAZN 5 
 http://dns.clientetv.xyz:8080/5966284/iptv07/20619
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes PPV",DAZN 6 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes",DAZN 6 
 http://dns.clientetv.xyz:8080/5966284/iptv07/20620
-#EXTINF:-1 tvg-id="" tvg-name="Futebol PPV" tvg-logo="http://printv.esy.es/server/PPV.png" group-title="Esportes PPV",Futebol PPV
+#EXTINF:-1 tvg-id="" tvg-name="Futebol PPV" tvg-logo="http://printv.esy.es/server/PPV.png" group-title="Esportes",Futebol PPV
 http://dns.clientetv.xyz:8080/5966284/iptv07/40651
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 02" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes PPV",TNT Sports 02
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 02" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 02
 http://dns.clientetv.xyz:8080/5966284/iptv07/39410
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 03" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes PPV",TNT Sports 03
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 03" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 03
 http://dns.clientetv.xyz:8080/5966284/iptv07/39411
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 04" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes PPV",TNT Sports 04
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 04" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 04
 http://dns.clientetv.xyz:8080/5966284/iptv07/39412
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 05" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes PPV",TNT Sports 05
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 05" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 05
 http://dns.clientetv.xyz:8080/5966284/iptv07/39413
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 05" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes PPV",TNT Sports 05
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 05" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports 05
 http://dns.clientetv.xyz:8080/5966284/iptv07/39414
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes PPV",TNT Sports
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://i.postimg.cc/zfDnk9XN/Esporte-Interativo-2.png" group-title="Esportes",TNT Sports
 http://dns.clientetv.xyz:8080/5966284/iptv07/2300
 #EXTINF:-1 tvg-id="band.sports.br" tvg-name="Band Sports" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports
 http://dns.clientetv.xyz:8080/5966284/iptv07/1812
@@ -267,25 +267,25 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/1869
 http://dns.clientetv.xyz:8080/5966284/iptv07/1868
 #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel
 http://dns.clientetv.xyz:8080/5966284/iptv07/1874
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Globosat Filmes",Canal Brasil
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Filmes",Canal Brasil
 http://dns.clientetv.xyz:8080/5966284/iptv07/1908
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="Globosat Filmes",Megapix
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="Filmes",Megapix
 http://dns.clientetv.xyz:8080/5966284/iptv07/1848
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal" tvg-logo="http://printv.esy.es/server/Studio%20Universal%20HD.png" group-title="Globosat Filmes",Studio Universal
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal" tvg-logo="http://printv.esy.es/server/Studio%20Universal%20HD.png" group-title="Filmes",Studio Universal
 http://dns.clientetv.xyz:8080/5966284/iptv07/1863
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy" tvg-logo="http://printv.esy.es/server/Syfy%20HD.png" group-title="Globosat Filmes",Syfy
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy" tvg-logo="http://printv.esy.es/server/Syfy%20HD.png" group-title="Filmes",Syfy
 http://dns.clientetv.xyz:8080/5966284/iptv07/1864
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Globosat Filmes",Telecine Action
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Filmes",Telecine Action
 http://dns.clientetv.xyz:8080/5966284/iptv07/1901
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="Globosat Filmes",Telecine Cult
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="Filmes",Telecine Cult
 http://dns.clientetv.xyz:8080/5966284/iptv07/1866
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Globosat Filmes",Telecine Fun
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Filmes",Telecine Fun
 http://dns.clientetv.xyz:8080/5966284/iptv07/1902
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Globosat Filmes",Telecine Pipoca
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Filmes",Telecine Pipoca
 http://dns.clientetv.xyz:8080/5966284/iptv07/1903
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Globosat Filmes",Telecine Premium
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Filmes",Telecine Premium
 http://dns.clientetv.xyz:8080/5966284/iptv07/1904
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Globosat Filmes",Telecine Touch
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Filmes",Telecine Touch
 http://dns.clientetv.xyz:8080/5966284/iptv07/1905
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network
 http://dns.clientetv.xyz:8080/5966284/iptv07/1815
@@ -307,33 +307,33 @@ http://dns.clientetv.xyz:8080/5966284/iptv07/22224
 http://dns.clientetv.xyz:8080/5966284/iptv07/1888
 #EXTINF:-1 tvg-id="record.news.sp.br" tvg-name="Record News" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News
 http://dns.clientetv.xyz:8080/5966284/iptv07/1861
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC Internacional " tvg-logo="http://printv.esy.es/server/PFC%20Interativo.png" group-title="Premiere",PFC Internacional 
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC Internacional " tvg-logo="http://printv.esy.es/server/PFC%20Interativo.png" group-title="Esportes",PFC Internacional 
 http://dns.clientetv.xyz:8080/5966284/iptv07/1605
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Esportes",Premiere 2
 http://dns.clientetv.xyz:8080/5966284/iptv07/1892
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Esportes",Premiere 2
 http://dns.clientetv.xyz:8080/5966284/iptv07/2187
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Esportes",Premiere 3
 http://dns.clientetv.xyz:8080/5966284/iptv07/1893
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Esportes",Premiere 3
 http://dns.clientetv.xyz:8080/5966284/iptv07/2189
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Esportes",Premiere 4
 http://dns.clientetv.xyz:8080/5966284/iptv07/1894
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Esportes",Premiere 4
 http://dns.clientetv.xyz:8080/5966284/iptv07/2191
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Esportes",Premiere 5
 http://dns.clientetv.xyz:8080/5966284/iptv07/1895
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Esportes",Premiere 5
 http://dns.clientetv.xyz:8080/5966284/iptv07/2193
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Esportes",Premiere 6
 http://dns.clientetv.xyz:8080/5966284/iptv07/1896
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",Premiere 6
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Esportes",Premiere 6
 http://dns.clientetv.xyz:8080/5966284/iptv07/2195
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Esportes",Premiere 7
 http://dns.clientetv.xyz:8080/5966284/iptv07/1897
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",Premiere 7
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Esportes",Premiere 7
 http://dns.clientetv.xyz:8080/5966284/iptv07/2197
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Esportes",Premiere Clubes
 http://dns.clientetv.xyz:8080/5966284/iptv07/1898
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E
 http://dns.clientetv.xyz:8080/5966284/iptv07/1806
