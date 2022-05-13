@@ -1,235 +1,235 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais",Globo RBS POA
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1984
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1984
 #EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais",Globo RBS TV POA
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1939
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1939
 #EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil " tvg-logo="http://printv.esy.es/server/CNN%20Brasil.png" group-title="Noticias",CNN Brasil 
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/22224
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/22224
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1888
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1888
 #EXTINF:-1 tvg-id="record.news.sp.br" tvg-name="Record News" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1861
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1861
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Globosat" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Canais",Globosat
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6600
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6600
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Mais Globosat" tvg-logo="http://printv.esy.es/server/Globosat%20HD.png" group-title="Canais",Mais Globosat
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1907
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1907
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Canais",Band News
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6580
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6580
 #EXTINF:-1 tvg-id="band.sports.br" tvg-name="Band Sports" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Canais",Band Sports
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6537
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6537
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Canais",Boomerang
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6613
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6613
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Canais",Animal Planet
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6535
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6535
 #EXTINF:-1 tvg-id="the.discovery.br" tvg-name="Discovery Channel" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Canais",Discovery Channel
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6543
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6543
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Canais",Discovery Civilization
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6586
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6586
 #EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science" tvg-logo="http://printv.esy.es/server/Discovery%20Science%20HD.png" group-title="Canais",Discovery Science
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6588
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6588
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Canais",Discovery Theater
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6538
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6538
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Canais",Discovery Home&Health
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1820
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1820
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Canais",Discovery Turbo
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1824
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1824
 #EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World" tvg-logo="http://printv.esy.es/server/Discovery%20World%20HD.png" group-title="Canais",Discovery World
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1825
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1825
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="Canais",HGTV
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1819
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1819
 #EXTINF:-1 tvg-id="history.br" tvg-name="History" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Canais",History
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1842
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1842
 #EXTINF:-1 tvg-id="h2.br" tvg-name="H2" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Canais",H2
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1838
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1838
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Canais",Nat Geo
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6564
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6564
 #EXTINF:-1 tvg-id="nat.geo.wild.br" tvg-name="Nat Geo Wild" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Canais",Nat Geo Wild
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1855
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1855
 #EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Canais",Nickelodeon
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6607
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6607
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="Canais",OFF
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6565
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6565
 #EXTINF:-1 tvg-id="smithsonian.br" tvg-name="Smithsonian Channel" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Canais",Smithsonian Channel
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1915
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1915
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais",TLC
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6614
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6614
 #EXTINF:-1 tvg-id="viva.br" tvg-name="Viva" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="Canais",Viva
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6575
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6575
 #EXTINF:-1 tvg-id="band.sports.br" tvg-name="Band Sports" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1812
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1812
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 01
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/10897
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/10897
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 02
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/10898
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/10898
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png" group-title="Esportes",Champions League 03
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/10899
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/10899
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6585
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6585
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1880
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1880
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2076
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2076
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2075
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2075
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1" tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes",Conmebol TV 1
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/40596
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/40596
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 " tvg-logo="https://www.ogol.com.br/img/logos/edicoes/130437_imgbank_.png" group-title="Esportes",Conmebol TV 2 
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/35223
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/35223
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes",ESPN
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6592
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6592
 #EXTINF:-1 tvg-id="espn.2.brz.br" tvg-name="ESPN 2" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",ESPN 2
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6576
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6576
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN Brasil" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN Brasil
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6541
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6541
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",ESPN Extra
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1828
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1828
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Estreia 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Esportes",Estreia 2
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6577
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6577
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1886
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1886
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="Fox Sports" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",Fox Sports
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1887
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1887
 #EXTINF:-1 tvg-id="" tvg-name="Futebol PPV" tvg-logo="http://printv.esy.es/server/PPV.png" group-title="Esportes",Futebol PPV
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/40651
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/40651
 #EXTINF:-1 tvg-id="PFC" tvg-name="PFC Internacional " tvg-logo="http://printv.esy.es/server/PFC%20Interativo.png" group-title="Esportes",PFC Internacional 
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1605
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1605
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Esportes",Premiere 2
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1892
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1892
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Esportes",Premiere 2
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2187
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2187
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Esportes",Premiere 3
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1893
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1893
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Esportes",Premiere 3
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2189
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2189
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Esportes",Premiere 4
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1894
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1894
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 4" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Esportes",Premiere 4
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2191
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2191
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Esportes",Premiere 5
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1895
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1895
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 5" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Esportes",Premiere 5
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2193
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2193
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Esportes",Premiere 6
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1896
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1896
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Esportes",Premiere 6
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2195
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2195
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Esportes",Premiere 7
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1897
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1897
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Esportes",Premiere 7
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2197
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2197
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Esportes",Premiere Clubes
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1898
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1898
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",SporTV 2
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1917
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1917
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",SporTV 3
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1918
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1918
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",SporTV
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2035
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2035
 #EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="Filmes & Series",AMC
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1807
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1807
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="Filmes & Series",AXN
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1810
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1810
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes & Series",Cinemax
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1816
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1816
 #EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts" tvg-logo="http://printv.esy.es/server/Film%26Arts.png" group-title="Filmes & Series",Film & Arts
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2280
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2280
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="http://printv.esy.es/server/FX%20HD.png" group-title="Filmes & Series",FX
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1835
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1835
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Filmes & Series",Paramount Channel
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1859
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1859
 #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes & Series",Sony Channel
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1814
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1814
 #EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes & Series",Space
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1862
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1862
 #EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes & Series",Star Channel
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1885
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1885
 #EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="Star Hits" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes & Series",Star Hits
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2118
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2118
 #EXTINF:-1 tvg-id="fox.life.br" tvg-name="Star Life" tvg-logo="http://printv.esy.es/server/Fox%20Life%20HD.png" group-title="Filmes & Series",Star Life
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1831
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1831
 #EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS" tvg-logo="http://printv.esy.es/server/TBS%20HD.png" group-title="Filmes & Series",TBS
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1865
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1865
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Filmes & Series",TCM
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2225
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2225
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series" tvg-logo="http://printv.esy.es/server/TNT%20SÃ©ries%20HD.png" group-title="Filmes & Series",TNT Series
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1869
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1869
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Filmes & Series",TNT
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1868
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1868
 #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="Filmes & Series",Warner Channel
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1874
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1874
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Filmes",HBO
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1891
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1891
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Filmes",HBO 2
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1890
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1890
 #EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family" tvg-logo="http://printv.esy.es/server/HBO%20Family%20HD.png" group-title="Filmes",HBO Family
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1839
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1839
 #EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi" tvg-logo="http://printv.esy.es/server/HBO%20Mundi.png" group-title="Filmes",HBO Mundi
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1845
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1845
 #EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="Filmes",HBO Plus
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1840
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1840
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP" tvg-logo="http://printv.esy.es/server/HBO%20Pop.png" group-title="Filmes",HBO POP
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1847
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1847
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature" tvg-logo="http://printv.esy.es/server/HBO%20Signature%20HD.png" group-title="Filmes",HBO Signature
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1841
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1841
 #EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme" tvg-logo="http://printv.esy.es/server/HBO%20Xtreme.png" group-title="Filmes",HBO Xtreme
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1846
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1846
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="http://printv.esy.es/server/Megapix%20HD.png" group-title="Filmes",Megapix
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1848
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1848
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal" tvg-logo="http://printv.esy.es/server/Studio%20Universal%20HD.png" group-title="Filmes",Studio Universal
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1863
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1863
 #EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy" tvg-logo="http://printv.esy.es/server/Syfy%20HD.png" group-title="Filmes",Syfy
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1864
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1864
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Filmes",Telecine Action
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1901
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1901
 #EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult" tvg-logo="http://printv.esy.es/server/Telecine%20Cult.png" group-title="Filmes",Telecine Cult
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1866
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1866
 #EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Filmes",Telecine Fun
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1902
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1902
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Filmes",Telecine Pipoca
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1903
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1903
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Filmes",Telecine Premium
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1904
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1904
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Filmes",Telecine Touch
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1905
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1905
 #EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1882
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1882
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6583
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6583
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades",A&E
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/6578
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/6578
 #EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="Variedades",Arte 1
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1809
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1809
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central" tvg-logo="http://printv.esy.es/server/Comedy%20Central%20HD.png" group-title="Variedades",Comedy Central
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1817
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1817
 #EXTINF:-1 tvg-id="curta.br" tvg-name="Curta!" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="Variedades",Curta!
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1818
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1818
 #EXTINF:-1 tvg-id="e.br" tvg-name="E!" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment%20HD.png" group-title="Variedades",E!
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1826
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1826
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Variedades",Fish TV
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2110
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2110
 #EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network" tvg-logo="http://printv.esy.es/server/Food%20Network%20HD.png" group-title="Variedades",Food Network
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1830
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1830
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Variedades",GNT
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1837
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1837
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="Variedades",Lifetime
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1844
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1844
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="http://printv.esy.es/server/MTV%20Live%20HD.png" group-title="Variedades",MTV Live
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2270
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2270
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="http://printv.esy.es/server/MTV%20HD.png" group-title="Variedades",MTV
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1849
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1849
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow" tvg-logo="http://printv.esy.es/server/Multishow%20HD.png" group-title="Variedades",Multishow
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1851
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1851
 #EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK" tvg-logo="" group-title="Variedades",NHK
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1210
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1210
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Variedades",TLC
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1867
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1867
 #EXTINF:-1 tvg-id="trutv.br" tvg-name="Trutv" tvg-logo="http://printv.esy.es/server/Tru%20TV%20HD.png" group-title="Variedades",Trutv
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1870
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1870
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="TV de peixe" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Variedades",TV de peixe
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1829
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1829
 #EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 Mega Hits" tvg-logo="http://printv.esy.es/server/VH1%20Mega%20Hits.png" group-title="Variedades",VH1 Mega Hits
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2261
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2261
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1" tvg-logo="http://printv.esy.es/server/VH1%20HD.png" group-title="Variedades",VH1
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/2260
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/2260
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="Variedades",Woohoo
-http://dns.clientetv.xyz:8080/kdZg9ZIq/ab20oDv1/1875
+http://dns.clientetv.net:8080/kdZg9ZIq/ab20oDv1/1875
