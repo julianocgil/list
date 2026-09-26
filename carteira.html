@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Documento Nacional do Estudante</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    body {
+      background-color: #121212;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      color: #333;
+    }
+
+    /* Tela do Aplicativo Mobile */
+    .app-screen {
+      width: 100%;
+      max-width: 414px;
+      min-height: 100vh;
+      background-color: #ede9f2;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    /* Header */
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 24px 10px 24px;
+    }
+
+    .dne-logo {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .dne-text {
+      font-size: 32px;
+      font-weight: 900;
+      color: #1a3c8a;
+      letter-spacing: -1.5px;
+      line-height: 0.8;
+    }
+
+    .dne-text span {
+      color: #e52421;
+    }
+
+    .dne-subtext {
+      display: flex;
+      flex-direction: column;
+      font-size: 8px;
+      font-weight: 700;
+      color: #555;
+      line-height: 1.1;
+      text-transform: uppercase;
+      padding-left: 2px;
+    }
+
+    .header-icons {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    /* Logo UNE */
+    .une-logo-globe {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: #1b429b;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      overflow: hidden;
+      position: relative;
+    }
+
+    .une-logo-inner {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle, #2352c4 0%, #112d73 100%);
+      position: relative;
+    }
+
+    .une-logo-inner::before {
+      content: '';
+      position: absolute;
+      width: 24px;
+      height: 12px;
+      border: 1px solid rgba(255,255,255,0.4);
+      border-radius: 50%;
+    }
+
+    .une-logo-text {
+      position: relative;
+      z-index: 2;
+      font-weight: 900;
+      font-size: 9px;
+      letter-spacing: 0.5px;
+      color: #fff;
+    }
+
+    /* Menu Hamburguer */
+    .menu-icon {
+      width: 22px;
+      height: 16px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      cursor: pointer;
+    }
+
+    .menu-icon div {
+      height: 3px;
+      background-color: #555;
+      border-radius: 2px;
+    }
+
+    /* Área Superior: Fotos e QR Code */
+    .top-cards-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      padding: 10px 20px;
+    }
+
+    .card-box {
+      background: #ffffff;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 190px;
+      position: relative;
+    }
+
+    .student-photo {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .qr-box {
+      padding: 12px 10px;
+      justify-content: space-between;
+    }
+
+    .qr-code-img {
+      width: 110px;
+      height: 110px;
+      object-fit: contain;
+      display: block;
+    }
+
+    .cie-info {
+      text-align: center;
+      margin-bottom: 4px;
+    }
+
+    .cie-label {
+      font-size: 11px;
+      color: #555;
+      font-weight: 500;
+    }
+
+    .cie-number {
+      font-size: 13px;
+      font-weight: 700;
+      color: #222;
+      letter-spacing: 0.3px;
+    }
+
+    /* Cartão de Informações */
+    .info-card {
+      background: #ffffff;
+      border-radius: 16px;
+      margin: 8px 20px;
+      padding: 20px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      position: relative;
+      z-index: 2;
+    }
+
+    .student-name {
+      font-size: 18px;
+      font-weight: 800;
+      color: #222;
+      margin-bottom: 12px;
+    }
+
+    .info-row {
+      font-size: 13px;
+      margin-bottom: 8px;
+      color: #333;
+      line-height: 1.3;
+    }
+
+    .info-label {
+      font-weight: 700;
+      color: #444;
+    }
+
+    .info-value {
+      font-weight: 400;
+      color: #555;
+    }
+
+    /* Rodapé Decorativo */
+    .bottom-section {
+      position: relative;
+      padding: 40px 20px 30px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .bg-shape-purple {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 220px;
+      background: linear-gradient(135deg, #882b6e 0%, #681f57 100%);
+      clip-path: ellipse(110% 80% at 50% 85%);
+      z-index: 0;
+    }
+
+    .bg-shape-white-loop {
+      position: absolute;
+      bottom: -30px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 320px;
+      height: 180px;
+      border: 24px solid rgba(255, 255, 255, 0.25);
+      border-radius: 50%;
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    .action-btn {
+      position: relative;
+      z-index: 5;
+      width: 100%;
+      max-width: 260px;
+      padding: 12px 16px;
+      border-radius: 25px;
+      background-color: #17389e;
+      color: #ffffff;
+      border: 1.5px solid #ffffff;
+      font-size: 13px;
+      font-weight: 700;
+      text-align: center;
+      cursor: pointer;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="app-screen">
+    <!-- Header -->
+    <div class="header">
+      <div class="dne-logo">
+        <div class="dne-text">d<span>n</span>e</div>
+        <div class="dne-subtext">
+          <span>Documento</span>
+          <span>Nacional</span>
+          <span>do Estudante</span>
+        </div>
+      </div>
+      <div class="header-icons">
+        <div class="une-logo-globe">
+          <div class="une-logo-inner">
+            <span class="une-logo-text">UNE</span>
+          </div>
+        </div>
+        <div class="menu-icon">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Foto & QR Code -->
+    <div class="top-cards-container">
+      <div class="card-box">
+        <img class="student-photo" src="https://raw.githubusercontent.com/julianocgil/list/master/foto.png" alt="Foto do Estudante">
+      </div>
+
+      <div class="card-box qr-box">
+        <img class="qr-code-img" src="https://raw.githubusercontent.com/julianocgil/list/master/qr.png" alt="QR Code">
+        <div class="cie-info">
+          <div class="cie-label">Nº da CIE</div>
+          <div class="cie-number">1264577981</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Dados do Estudante -->
+    <div class="info-card">
+      <div class="student-name">Juliano Cesar Gil</div>
+      
+      <div class="info-row">
+        <span class="info-label">Ins. Ensino:</span> 
+        <span class="info-value">Centro Univ Nove de Julho</span>
+      </div>
+
+      <div class="info-row">
+        <span class="info-label">Curso:</span> 
+        <span class="info-value">Administracao Geral</span>
+      </div>
+
+      <div class="info-row">
+        <span class="info-label">CPF:</span> 
+        <span class="info-value"></span>
+      </div>
+
+      <div class="info-row">
+        <span class="info-label">Data de Nasc:</span> 
+        <span class="info-value">23/06/1985</span>
+      </div>
+
+      <div class="info-row" style="margin-bottom: 0;">
+        <span class="info-label">Número do Bilhete:</span> 
+        <span class="info-value">1264577981</span>
+      </div>
+    </div>
+
+    <!-- Botões Inferiores -->
+    <div class="bottom-section">
+      <div class="bg-shape-purple"></div>
+      <div class="bg-shape-white-loop"></div>
+
+      <button class="action-btn">Recarga de Transporte</button>
+      <button class="action-btn">Certificado</button>
+    </div>
+  </div>
+
+</body>
+</html>
