@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento Nacional do Estudante - DNE</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome for UI Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Inter Font for accurate UI typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        dneAppBg: '#e5e1ee',
+                        dneBlue: '#1a37a7',
+                        dneBlueHover: '#13287d',
+                        dnePurple: '#823775',
+                        dnePurpleDark: '#622055',
+                        dneTextDark: '#323232',
+                        dneTextMuted: '#666666',
+                    },
+                    boxShadow: {
+                        'dne-card': '0 8px 24px -4px rgba(0, 0, 0, 0.12), 0 4px 12px -2px rgba(0, 0, 0, 0.08)',
+                        'dne-btn': '0 4px 14px rgba(26, 55, 167, 0.4)',
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        /* Base page alignment and backdrop styling */
+        body {
+            background: linear-gradient(135deg, #1e1e2e 0%, #2a2a40 100%);
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            padding: 16px;
+            color: #333333;
+        }
+
+        /* Mobile viewport wrapper to replicate exact mobile app frame */
+        .mobile-frame {
+            width: 100%;
+            max-width: 400px;
+            height: 780px;
+            background-color: #e5e1ee;
+            border-radius: 28px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.1);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        /* Decorative Background Artwork imitating the exact DNE abstract shapes */
+        .dne-bg-artwork {
+            position: absolute;
+            bottom: -10px;
+            left: -10px;
+            right: -10px;
+            width: calc(100% + 20px);
+            height: 280px;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        /* Custom image fallback styling */
+        .img-fallback {
+            background-color: #f3f4f6;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="mobile-frame select-none">
+        
+        <!-- Main Top Content Container -->
+        <div class="p-5 pt-6 z-10 relative flex-1 flex flex-col">
+            
+            <header class="flex justify-between items-center mb-5">
+                <!-- DNE Brand Logo -->
+                <div class="flex items-center space-x-2">
+                    <div class="flex items-center text-[#1b359c]">
+                        <!-- DNE Stylized Symbol -->
+                        <span class="text-[32px] font-black italic tracking-tighter leading-none" style="font-family: 'Inter', sans-serif; transform: skewX(-6deg);">dne</span>
+                    </div>
+                    <div class="text-[9.5px] font-semibold text-[#1b359c] leading-[1.1] flex flex-col tracking-tight pl-0.5">
+                        <span>Documento</span>
+                        <span>Nacional</span>
+                        <span>do Estudante</span>
+                    </div>
+                </div>
+
+                <!-- Right Action Icons -->
+                <div class="flex items-center space-x-3.5">
+                    <!-- UNE Official Globe Logo Icon -->
+                    <div class="w-[34px] h-[34px] rounded-full bg-[#1b359c] flex items-center justify-center shadow-sm relative overflow-hidden border border-white/20">
+                        <svg class="w-full h-full text-white" viewBox="0 0 100 100" fill="none">
+                            <circle cx="50" cy="50" r="46" fill="#1b359c"/>
+                            <!-- Map outline stylized representation -->
+                            <path d="M 20 50 Q 50 15 80 50 Q 50 85 20 50 Z" stroke="rgba(255,255,255,0.3)" stroke-width="3" fill="none"/>
+                            <path d="M 50 10 L 50 90" stroke="rgba(255,255,255,0.3)" stroke-width="3"/>
+                            <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="22" font-weight="900" font-family="sans-serif">UNE</text>
+                        </svg>
+                    </div>
+
+                    <!-- Hamburger Menu Button -->
+                    <button class="text-[#3c3d42] hover:text-black transition-colors focus:outline-none p-1" aria-label="Menu">
+                        <i class="fa-solid fa-bars text-2xl"></i>
+                    </button>
+                </div>
+            </header>
+
+            <div class="grid grid-cols-2 gap-3.5 mb-4">
+                
+                <!-- Left Card: Profile Image -->
+                <div class="bg-white p-2 rounded-[20px] shadow-dne-card flex items-center justify-center border border-white/60">
+                    <div class="w-full h-full aspect-[3/4] rounded-[14px] overflow-hidden bg-gray-100 relative">
+                        <img 
+                            src="https://raw.githubusercontent.com/julianocgil/list/refs/heads/master/foto.png" 
+                            alt="Foto do Estudante - Juliano Cesar Gil" 
+                            class="w-full h-full object-cover img-fallback"
+                            onerror="this.onerror=null; this.src='https://placehold.co/300x400/823775/ffffff?text=Juliano+Cesar';"
+                        />
+                    </div>
+                </div>
+
+                <!-- Right Card: QR Code & CIE ID -->
+                <div class="bg-white p-3 rounded-[20px] shadow-dne-card flex flex-col items-center justify-between border border-white/60">
+                    <div class="w-full flex-1 flex items-center justify-center p-1 my-auto">
+                        <img 
+                            src="https://raw.githubusercontent.com/julianocgil/list/refs/heads/master/qr.png" 
+                            alt="QR Code de Validação" 
+                            class="w-full max-w-[130px] h-auto object-contain"
+                            onerror="this.onerror=null; this.src='https://placehold.co/200x200/000000/ffffff?text=QR+Code';"
+                        />
+                    </div>
+                    <div class="text-center w-full pt-1">
+                        <p class="text-[11px] text-gray-500 font-medium leading-none mb-1">Nº da CIE</p>
+                        <p class="text-[13px] font-bold text-gray-800 tracking-wide leading-none">1264577981</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-[22px] p-4 pt-4.5 pb-5 shadow-dne-card border border-white/60 space-y-2">
+                <!-- Student Full Name -->
+                <h1 class="text-[15px] font-bold text-gray-800 tracking-tight border-b border-gray-100 pb-2">
+                    Juliano Cesar Gil
+                </h1>
+
+                <!-- Student Details Grid -->
+                <div class="space-y-1.5 text-[12.5px] text-gray-600 leading-tight">
+                    <div class="flex items-baseline">
+                        <span class="font-bold text-gray-800 w-[92px] shrink-0">Ins. Ensino:</span>
+                        <span class="text-gray-600 font-normal">Centro Univ Nove de Julho</span>
+                    </div>
+
+                    <div class="flex items-baseline">
+                        <span class="font-bold text-gray-800 w-[92px] shrink-0">Curso:</span>
+                        <span class="text-gray-600 font-normal">Administracao Geral</span>
+                    </div>
+
+                    <div class="flex items-baseline">
+                        <span class="font-bold text-gray-800 w-[92px] shrink-0">CPF:</span>
+                        <span class="text-gray-600 font-normal min-h-[1em]"></span>
+                    </div>
+
+                    <div class="flex items-baseline">
+                        <span class="font-bold text-gray-800 w-[92px] shrink-0">Data de Nasc:</span>
+                        <span class="text-gray-600 font-normal">23/06/1985</span>
+                    </div>
+
+                    <div class="flex items-baseline pt-0.5">
+                        <span class="font-bold text-gray-800 w-[125px] shrink-0">Número do Bilhete:</span>
+                        <span class="text-gray-600 font-normal">1264577981</span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="relative z-20 pb-8 px-10 space-y-3 mt-auto">
+            
+            <!-- Button 1: Recarga de Transporte -->
+            <button class="w-full bg-[#1b359c] hover:bg-dneBlueHover active:scale-[0.98] text-white font-medium py-3 px-4 rounded-full border-[2px] border-white shadow-dne-btn transition-all duration-150 text-[13.5px] tracking-wide text-center flex items-center justify-center">
+                Recarga de Transporte
+            </button>
+
+            <!-- Button 2: Certificado -->
+            <button class="w-full bg-[#1b359c] hover:bg-dneBlueHover active:scale-[0.98] text-white font-medium py-3 px-4 rounded-full border-[2px] border-white shadow-dne-btn transition-all duration-150 text-[13.5px] tracking-wide text-center flex items-center justify-center">
+                Certificado
+            </button>
+        </div>
+
+        <svg class="dne-bg-artwork" viewBox="0 0 400 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#9a3b83"/>
+                    <stop offset="100%" stop-color="#692257"/>
+                </linearGradient>
+            </defs>
+
+            <!-- Small side decorative pill tag on the left edge -->
+            <rect x="-1" y="25" width="10" height="38" rx="5" fill="#9a3b83" />
+
+            <!-- Complex bottom layered curve (reproducing image_de8387 purple background wave) -->
+            <path d="M-20 180 C 120 120, 280 200, 420 110 L 420 300 L -20 300 Z" fill="url(#purpleGrad)" />
+            <path d="M-20 230 C 100 160, 240 240, 420 160 L 420 300 L -20 300 Z" fill="#622055" opacity="0.4" />
+            
+            <!-- Curved ribbon looping element resembling the DNE graphic cutout -->
+            <path d="M 50 280 C 50 170, 160 140, 250 220 C 310 270, 200 320, 120 280 C 70 250, 120 180, 220 170" 
+                  stroke="#e5e1ee" 
+                  stroke-width="32" 
+                  stroke-linecap="round" 
+                  fill="none" 
+                  opacity="0.95" />
+                  
+            <!-- Inner accent stripe inside loop -->
+            <path d="M 55 280 C 55 175, 160 145, 250 220 C 310 270, 200 320, 120 280" 
+                  stroke="#832f70" 
+                  stroke-width="12" 
+                  stroke-linecap="round" 
+                  fill="none" 
+                  opacity="0.2" />
+        </svg>
+
+    </div>
+
+</body>
+</html>
